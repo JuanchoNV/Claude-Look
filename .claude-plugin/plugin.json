@@ -1,0 +1,10 @@
+{
+  "name": "claude-look",
+  "description": "Let Claude watch videos from a link (TikTok, Instagram Reels, X...): key frames + local transcript, cheap on tokens, nothing left on disk.",
+  "version": "1.0.0",
+  "author": { "name": "JuanchoNV", "url": "https://github.com/JuanchoNV" },
+  "homepage": "https://github.com/JuanchoNV/Claude-Look",
+  "repository": "https://github.com/JuanchoNV/Claude-Look",
+  "license": "MIT",
+  "keywords": ["video", "tiktok", "instagram", "reels", "transcript", "whisper", "skill"]
+}
